@@ -20,3 +20,5 @@ Let's learn basic java programs.
 [Calculate percentage in java](https://www.flowerbrackets.com/java-calculate-percentage/)
 
 [Convert char array to string in java](https://www.flowerbrackets.com/convert-char-array-to-string-java/)
+
+[continue statement in java](https://www.flowerbrackets.com/continue-statement-java/)
