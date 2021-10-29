@@ -22,3 +22,5 @@ Let's learn basic java programs.
 [Convert char array to string in java](https://www.flowerbrackets.com/convert-char-array-to-string-java/)
 
 [continue statement in java](https://www.flowerbrackets.com/continue-statement-java/)
+
+[How to create directory in java](https://www.flowerbrackets.com/how-to-create-directory-java/)
