@@ -24,3 +24,5 @@ Let's learn basic java programs.
 [continue statement in java](https://www.flowerbrackets.com/continue-statement-java/)
 
 [How to create directory in java](https://www.flowerbrackets.com/how-to-create-directory-java/)
+
+[Java create new file](https://www.flowerbrackets.com/java-create-new-file/)
