@@ -46,3 +46,5 @@ Let's learn basic java programs.
 [Java program to check even or odd number](https://www.flowerbrackets.com/java-program-to-find-even-or-odd/)
 
 [Java program to print Floyd’s triangle](https://www.flowerbrackets.com/java-program-to-print-floyds-triangle/)
+
+[for loop in java](https://www.flowerbrackets.com/for-loop-in-java/)
