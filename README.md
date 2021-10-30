@@ -34,6 +34,7 @@ Let's learn basic java programs.
 [Java program to convert decimal number to binary](https://www.flowerbrackets.com/java-program-convert-decimal-number-to-binary/)
 
 [Factorial program in java](https://www.flowerbrackets.com/factorial-program-in-java/)
+
 [Java program to delete specified integer from an array](https://www.flowerbrackets.com/java-program-to-delete-specified-integer-from-array/)
 
 [Java convert decimal to hex](https://www.flowerbrackets.com/java-convert-decimal-to-hex/)
@@ -43,3 +44,5 @@ Let's learn basic java programs.
 [Java program to find IP address of a system](https://www.flowerbrackets.com/java-program-to-find-ip-address/)
 
 [Java program to check even or odd number](https://www.flowerbrackets.com/java-program-to-find-even-or-odd/)
+
+[Java program to print Floyd’s triangle](https://www.flowerbrackets.com/java-program-to-print-floyds-triangle/)
