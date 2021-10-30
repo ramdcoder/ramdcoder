@@ -48,3 +48,5 @@ Let's learn basic java programs.
 [Java program to print Floyd’s triangle](https://www.flowerbrackets.com/java-program-to-print-floyds-triangle/)
 
 [for loop in java](https://www.flowerbrackets.com/for-loop-in-java/)
+
+[Garbage collection in java](https://www.flowerbrackets.com/garbage-collection-in-java/)
