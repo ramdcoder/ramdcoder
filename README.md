@@ -40,3 +40,5 @@ Let's learn basic java programs.
 [Java convert decimal to octal](https://www.flowerbrackets.com/decimal-to-octal-java/)
 
 [Java program to find IP address of a system](https://www.flowerbrackets.com/java-program-to-find-ip-address/)
+
+[Java program to check even or odd number](https://www.flowerbrackets.com/java-program-to-find-even-or-odd/)
