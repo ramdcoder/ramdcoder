@@ -26,3 +26,5 @@ Let's learn basic java programs.
 [How to create directory in java](https://www.flowerbrackets.com/how-to-create-directory-java/)
 
 [Java create new file](https://www.flowerbrackets.com/java-create-new-file/)
+
+[How to get current date and time in java](https://www.flowerbrackets.com/how-to-get-current-date-time-in-java/)
