@@ -28,3 +28,5 @@ Let's learn basic java programs.
 [Java create new file](https://www.flowerbrackets.com/java-create-new-file/)
 
 [How to get current date and time in java](https://www.flowerbrackets.com/how-to-get-current-date-time-in-java/)
+
+[Java convert date to string](https://www.flowerbrackets.com/java-date-to-string/)
