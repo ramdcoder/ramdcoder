@@ -68,3 +68,5 @@ Let's learn basic java programs.
 [Merge sort java](https://www.flowerbrackets.com/merge-sort-java/)
 
 [Java convert octal to decimal](https://www.flowerbrackets.com/octal-to-decimal-java/)
+
+[Java program to check if a number is palindrome or not](https://www.flowerbrackets.com/java-program-check-if-number-is-palindrome-or-not/)
