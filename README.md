@@ -50,3 +50,5 @@ Let's learn basic java programs.
 [for loop in java](https://www.flowerbrackets.com/for-loop-in-java/)
 
 [Garbage collection in java](https://www.flowerbrackets.com/garbage-collection-in-java/)
+
+[Java convert hex to decimal](https://www.flowerbrackets.com/java-convert-hex-to-decimal/)
