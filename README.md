@@ -62,3 +62,5 @@ Let's learn basic java programs.
 [Java program to find if given year is leap year](https://www.flowerbrackets.com/java-program-to-find-if-given-year-is-leap-year/)
 
 [Linear search in java](https://www.flowerbrackets.com/linear-search-java/)
+
+[Java program to find transpose of a matrix](https://www.flowerbrackets.com/java-program-to-find-transpose-of-a-matrix/)
