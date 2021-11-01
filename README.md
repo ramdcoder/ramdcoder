@@ -52,3 +52,5 @@ Let's learn basic java programs.
 [Garbage collection in java](https://www.flowerbrackets.com/garbage-collection-in-java/)
 
 [Java convert hex to decimal](https://www.flowerbrackets.com/java-convert-hex-to-decimal/)
+
+[if else in java](https://www.flowerbrackets.com/if-else-java/)
