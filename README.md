@@ -64,3 +64,5 @@ Let's learn basic java programs.
 [Linear search in java](https://www.flowerbrackets.com/linear-search-java/)
 
 [Java program to find transpose of a matrix](https://www.flowerbrackets.com/java-program-to-find-transpose-of-a-matrix/)
+
+[Merge sort java](https://www.flowerbrackets.com/merge-sort-java/)
