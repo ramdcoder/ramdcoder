@@ -78,3 +78,5 @@ Let's learn basic java programs.
 [Java program to check whether number is prime or not](https://www.flowerbrackets.com/java-program-to-check-whether-number-is-prime-or-not/)
 
 [Java program to print alphabets](https://www.flowerbrackets.com/java-program-to-print-alphabets/)
+
+[Java program to print multiplication table of any number](https://www.flowerbrackets.com/java-program-to-print-multiplication-table-of-any-number/)
