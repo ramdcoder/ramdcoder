@@ -76,3 +76,5 @@ Let's learn basic java programs.
 [Java program to display pascal triangle](https://www.flowerbrackets.com/java-program-to-display-pascal-triangle/)
 
 [Java program to check whether number is prime or not](https://www.flowerbrackets.com/java-program-to-check-whether-number-is-prime-or-not/)
+
+[Java program to print alphabets](https://www.flowerbrackets.com/java-program-to-print-alphabets/)
