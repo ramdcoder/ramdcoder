@@ -70,3 +70,5 @@ Let's learn basic java programs.
 [Java convert octal to decimal](https://www.flowerbrackets.com/octal-to-decimal-java/)
 
 [Java program to check if a number is palindrome or not](https://www.flowerbrackets.com/java-program-check-if-number-is-palindrome-or-not/)
+
+[Java program to check whether string is palindrome](https://www.flowerbrackets.com/java-program-check-whether-string-palindrome/)
