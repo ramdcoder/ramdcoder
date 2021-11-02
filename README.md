@@ -74,3 +74,5 @@ Let's learn basic java programs.
 [Java program to check whether string is palindrome](https://www.flowerbrackets.com/java-program-check-whether-string-palindrome/)
 
 [Java program to display pascal triangle](https://www.flowerbrackets.com/java-program-to-display-pascal-triangle/)
+
+[Java program to check whether number is prime or not](https://www.flowerbrackets.com/java-program-to-check-whether-number-is-prime-or-not/)
