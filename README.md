@@ -84,3 +84,5 @@ Let's learn basic java programs.
 [Quicksort in java](https://www.flowerbrackets.com/quicksort-java/)
 
 [Java program to delete vowels in a given string](https://www.flowerbrackets.com/java-program-to-delete-vowels-in-a-given-string/)
+
+[Random number generator in java](https://www.flowerbrackets.com/random-number-generator-java/)
