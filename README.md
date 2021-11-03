@@ -80,3 +80,5 @@ Let's learn basic java programs.
 [Java program to print alphabets](https://www.flowerbrackets.com/java-program-to-print-alphabets/)
 
 [Java program to print multiplication table of any number](https://www.flowerbrackets.com/java-program-to-print-multiplication-table-of-any-number/)
+
+[Quicksort in java](https://www.flowerbrackets.com/quicksort-java/)
