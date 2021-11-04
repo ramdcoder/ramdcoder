@@ -96,3 +96,5 @@ Let's learn basic java programs.
 [Java program to find simple interest](https://www.flowerbrackets.com/java-program-to-find-simple-interest/)
 
 [How to sort a string array in java](https://www.flowerbrackets.com/how-to-sort-a-string-array-in-java/)
+
+[Sparse matrix and its representations in java](https://www.flowerbrackets.com/sparse-matrix-and-its-representations-in-java/)
