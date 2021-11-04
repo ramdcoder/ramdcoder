@@ -92,3 +92,5 @@ Let's learn basic java programs.
 [Java reverse string array](https://www.flowerbrackets.com/java-reverse-string-array/)
 
 [Selection sort in java](https://www.flowerbrackets.com/selection-sort-java/)
+
+[Java program to find simple interest](https://www.flowerbrackets.com/java-program-to-find-simple-interest/)
