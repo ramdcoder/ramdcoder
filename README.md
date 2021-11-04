@@ -106,3 +106,5 @@ Let's learn basic java programs.
 [String concatenation in java](https://www.flowerbrackets.com/string-concatenation-java/)
 
 [String length() method in java](https://www.flowerbrackets.com/string-length-method-java/)
+
+[Java remove character from string](https://www.flowerbrackets.com/java-remove-character-from-string/)
