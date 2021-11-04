@@ -98,3 +98,9 @@ Let's learn basic java programs.
 [How to sort a string array in java](https://www.flowerbrackets.com/how-to-sort-a-string-array-in-java/)
 
 [Sparse matrix and its representations in java](https://www.flowerbrackets.com/sparse-matrix-and-its-representations-in-java/)
+
+[String toUpperCase() method in java](https://www.flowerbrackets.com/string-touppercase-method-java/)
+
+[Java compare two strings](https://www.flowerbrackets.com/java-compare-two-strings/)
+
+[String concatenation in java](https://www.flowerbrackets.com/string-concatenation-java/)
