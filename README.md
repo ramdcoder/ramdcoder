@@ -94,3 +94,5 @@ Let's learn basic java programs.
 [Selection sort in java](https://www.flowerbrackets.com/selection-sort-java/)
 
 [Java program to find simple interest](https://www.flowerbrackets.com/java-program-to-find-simple-interest/)
+
+[How to sort a string array in java](https://www.flowerbrackets.com/how-to-sort-a-string-array-in-java/)
