@@ -124,3 +124,5 @@ Let's learn basic java programs.
 [Java Overview](https://www.flowerbrackets.com/java-overview/)
 
 [Major features of java](https://www.flowerbrackets.com/major-features-of-java/)
+
+[Preface to java virtual machine and architecture](https://www.flowerbrackets.com/preface-to-java-virtual-machine-and-architecture/)
