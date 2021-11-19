@@ -118,3 +118,5 @@ Let's learn basic java programs.
 [Java program to swap two numbers](https://www.flowerbrackets.com/java-program-to-swap-two-numbers/)
 
 [Switch statement in java](https://www.flowerbrackets.com/switch-statement-in-java/)
+
+[Java catch multiple exceptions and rethrow exception](https://www.flowerbrackets.com/java-catch-multiple-exceptions-rethrow-exception/)
