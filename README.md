@@ -116,3 +116,5 @@ Let's learn basic java programs.
 [Java String toCharArray() method](https://www.flowerbrackets.com/java-string-tochararray-method/)
 
 [Java program to swap two numbers](https://www.flowerbrackets.com/java-program-to-swap-two-numbers/)
+
+[Switch statement in java](https://www.flowerbrackets.com/switch-statement-in-java/)
