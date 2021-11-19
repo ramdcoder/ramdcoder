@@ -112,3 +112,5 @@ Let's learn basic java programs.
 [Reverse a string in java](https://www.flowerbrackets.com/reverse-string-in-java/)
 
 [Java string trim() method](https://www.flowerbrackets.com/java-string-trim-method/)
+
+[Java String toCharArray() method](https://www.flowerbrackets.com/java-string-tochararray-method/)
