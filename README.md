@@ -142,3 +142,5 @@ Let's learn basic java programs.
 [Inheritance in java](https://www.flowerbrackets.com/inheritance-in-java/)
 
 [Abstraction in java](https://www.flowerbrackets.com/abstraction-in-java/)
+
+[Nested classes in java](https://www.flowerbrackets.com/nested-classes-in-java/)
