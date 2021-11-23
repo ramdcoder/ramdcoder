@@ -140,3 +140,5 @@ Let's learn basic java programs.
 [Access modifiers in java](https://www.flowerbrackets.com/access-modifiers-in-java/)
 
 [Inheritance in java](https://www.flowerbrackets.com/inheritance-in-java/)
+
+[Abstraction in java](https://www.flowerbrackets.com/abstraction-in-java/)
