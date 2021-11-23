@@ -146,3 +146,5 @@ Let's learn basic java programs.
 [Nested classes in java](https://www.flowerbrackets.com/nested-classes-in-java/)
 
 [Strings in java](https://www.flowerbrackets.com/strings-in-java/)
+
+[Methods in java](https://www.flowerbrackets.com/methods-in-java/)
