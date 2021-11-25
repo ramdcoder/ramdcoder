@@ -162,3 +162,5 @@ Let's learn basic java programs.
 [for-each loop in java](https://www.flowerbrackets.com/for-each-loop-in-java/)
 
 [Matrix addition and subtraction in java](https://www.flowerbrackets.com/matrix-addition-and-subtraction-in-java/)
+
+[Fibonacci series in java](https://www.flowerbrackets.com/fibonacci-series-in-java/)
