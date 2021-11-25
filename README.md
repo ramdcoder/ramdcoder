@@ -154,3 +154,5 @@ Let's learn basic java programs.
 [static keyword in java](https://www.flowerbrackets.com/static-keyword-in-java/)
 
 [Interface in java](https://www.flowerbrackets.com/interface-in-java/)
+
+[Arrays.sort() in java](https://www.flowerbrackets.com/arrays-sort-in-java/)
