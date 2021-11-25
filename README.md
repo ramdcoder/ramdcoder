@@ -156,3 +156,5 @@ Let's learn basic java programs.
 [Interface in java](https://www.flowerbrackets.com/interface-in-java/)
 
 [Arrays.sort() in java](https://www.flowerbrackets.com/arrays-sort-in-java/)
+
+[Java program to find sum & average of an array](https://www.flowerbrackets.com/java-program-to-find-sum-average-of-an-array/)
