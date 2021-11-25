@@ -160,3 +160,5 @@ Let's learn basic java programs.
 [Java program to find sum & average of an array](https://www.flowerbrackets.com/java-program-to-find-sum-average-of-an-array/)
 
 [for-each loop in java](https://www.flowerbrackets.com/for-each-loop-in-java/)
+
+[Matrix addition and subtraction in java](https://www.flowerbrackets.com/matrix-addition-and-subtraction-in-java/)
