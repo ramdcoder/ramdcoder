@@ -164,3 +164,5 @@ Let's learn basic java programs.
 [Matrix addition and subtraction in java](https://www.flowerbrackets.com/matrix-addition-and-subtraction-in-java/)
 
 [Fibonacci series in java](https://www.flowerbrackets.com/fibonacci-series-in-java/)
+
+[Symmetric matrix program in java](https://www.flowerbrackets.com/symmetric-matrix-program-in-java/)
