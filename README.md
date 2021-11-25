@@ -158,3 +158,5 @@ Let's learn basic java programs.
 [Arrays.sort() in java](https://www.flowerbrackets.com/arrays-sort-in-java/)
 
 [Java program to find sum & average of an array](https://www.flowerbrackets.com/java-program-to-find-sum-average-of-an-array/)
+
+[for-each loop in java](https://www.flowerbrackets.com/for-each-loop-in-java/)
