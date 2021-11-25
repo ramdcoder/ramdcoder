@@ -152,3 +152,5 @@ Let's learn basic java programs.
 [while loop in java](https://www.flowerbrackets.com/while-loop-in-java/)
 
 [static keyword in java](https://www.flowerbrackets.com/static-keyword-in-java/)
+
+[Interface in java](https://www.flowerbrackets.com/interface-in-java/)
