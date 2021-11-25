@@ -148,3 +148,5 @@ Let's learn basic java programs.
 [Strings in java](https://www.flowerbrackets.com/strings-in-java/)
 
 [Methods in java](https://www.flowerbrackets.com/methods-in-java/)
+
+[while loop in java](https://www.flowerbrackets.com/while-loop-in-java/)
