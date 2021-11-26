@@ -166,3 +166,5 @@ Let's learn basic java programs.
 [Fibonacci series in java](https://www.flowerbrackets.com/fibonacci-series-in-java/)
 
 [Symmetric matrix program in java](https://www.flowerbrackets.com/symmetric-matrix-program-in-java/)
+
+[TreeMap in java](https://www.flowerbrackets.com/treemap-in-java/)
