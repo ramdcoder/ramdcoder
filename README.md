@@ -182,3 +182,5 @@ Let's learn basic java programs.
 [Arrays in java](https://www.flowerbrackets.com/arrays-in-java/)
 
 [Convert string to date in java](https://www.flowerbrackets.com/java-convert-string-to-date/)
+
+[Java program to convert integer value into binary](https://www.flowerbrackets.com/java-program-to-convert-integer-value-into-binary/)
