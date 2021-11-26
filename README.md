@@ -178,3 +178,5 @@ Let's learn basic java programs.
 [ArrayList in java](https://www.flowerbrackets.com/arraylist-in-java/)
 
 [Sorting HashMap by values in java](https://www.flowerbrackets.com/sorting-hashmap-by-values-in-java/)
+
+[Arrays in java](https://www.flowerbrackets.com/arrays-in-java/)
