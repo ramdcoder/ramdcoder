@@ -196,3 +196,5 @@ Let's learn basic java programs.
 [Java program to find circumference of a circle](https://www.flowerbrackets.com/java-program-to-find-circumference-of-a-circle/)
 
 [Java program to calculate area of circle using method](https://www.flowerbrackets.com/java-program-calculate-area-of-circle-using-method/)
+
+[Java program to find perimeter of a rectangle](https://www.flowerbrackets.com/java-program-to-find-perimeter-of-rectangle/)
