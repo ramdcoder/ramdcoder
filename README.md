@@ -188,3 +188,5 @@ Let's learn basic java programs.
 [Multidimensional array in java](https://www.flowerbrackets.com/multidimensional-array-in-java/)
 
 [Matrix multiplication in java using function](https://www.flowerbrackets.com/matrix-multiplication-in-java-using-function/)
+
+[Java program to swap two numbers using function](https://www.flowerbrackets.com/java-program-to-swap-two-numbers-using-function/)
