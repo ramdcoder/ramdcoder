@@ -186,3 +186,5 @@ Let's learn basic java programs.
 [Java program to convert integer value into binary](https://www.flowerbrackets.com/java-program-to-convert-integer-value-into-binary/)
 
 [Multidimensional array in java](https://www.flowerbrackets.com/multidimensional-array-in-java/)
+
+[Matrix multiplication in java using function](https://www.flowerbrackets.com/matrix-multiplication-in-java-using-function/)
