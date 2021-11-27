@@ -202,3 +202,5 @@ Let's learn basic java programs.
 [Calculate area of rectangle using class in java](https://www.flowerbrackets.com/calculate-area-of-rectangle-using-class-in-java/)
 
 [Calculate area of rectangle using default constructor in java](https://www.flowerbrackets.com/area-of-rectangle-using-default-constructor-in-java/)
+
+[Calculate area of rectangle using parameterized constructor in java](https://www.flowerbrackets.com/calculate-area-rectangle-using-parameterised-constructor-java/)
