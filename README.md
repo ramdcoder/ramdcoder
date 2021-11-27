@@ -190,3 +190,5 @@ Let's learn basic java programs.
 [Matrix multiplication in java using function](https://www.flowerbrackets.com/matrix-multiplication-in-java-using-function/)
 
 [Java program to swap two numbers using function](https://www.flowerbrackets.com/java-program-to-swap-two-numbers-using-function/)
+
+[Java program to swap two numbers using bitwise operator](https://www.flowerbrackets.com/java-program-to-swap-two-numbers-using-bitwise-operator/)
