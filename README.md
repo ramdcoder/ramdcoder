@@ -200,3 +200,5 @@ Let's learn basic java programs.
 [Java program to find perimeter of a rectangle](https://www.flowerbrackets.com/java-program-to-find-perimeter-of-rectangle/)
 
 [Calculate area of rectangle using class in java](https://www.flowerbrackets.com/calculate-area-of-rectangle-using-class-in-java/)
+
+[Calculate area of rectangle using default constructor in java](https://www.flowerbrackets.com/area-of-rectangle-using-default-constructor-in-java/)
