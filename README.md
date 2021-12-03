@@ -208,3 +208,5 @@ Let's learn basic java programs.
 [Calculate area of rectangle using constructor overloading in java](https://www.flowerbrackets.com/area-of-rectangle-using-constructor-overloading-in-java/)
 
 [Find minimum and maximum values in a java array](https://www.flowerbrackets.com/find-minimum-and-maximum-values-in-a-array-java/)
+
+[Static method – java convert decimal to octal](https://www.flowerbrackets.com/static-method-java-program-to-convert-decimal-to-octal/)
