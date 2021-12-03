@@ -206,3 +206,5 @@ Let's learn basic java programs.
 [Calculate area of rectangle using parameterized constructor in java](https://www.flowerbrackets.com/calculate-area-rectangle-using-parameterised-constructor-java/)
 
 [Calculate area of rectangle using constructor overloading in java](https://www.flowerbrackets.com/area-of-rectangle-using-constructor-overloading-in-java/)
+
+[Find minimum and maximum values in a java array](https://www.flowerbrackets.com/find-minimum-and-maximum-values-in-a-array-java/)
