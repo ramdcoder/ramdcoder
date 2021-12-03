@@ -212,3 +212,5 @@ Let's learn basic java programs.
 [Static method – java convert decimal to octal](https://www.flowerbrackets.com/static-method-java-program-to-convert-decimal-to-octal/)
 
 [Recursion – java program to convert decimal to octal](https://www.flowerbrackets.com/recursion-java-program-to-convert-decimal-to-octal/)
+
+[How to remove element from arraylist in java](https://www.flowerbrackets.com/how-to-remove-element-from-arraylist-in-java/)
