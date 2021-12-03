@@ -214,3 +214,5 @@ Let's learn basic java programs.
 [Recursion – java program to convert decimal to octal](https://www.flowerbrackets.com/recursion-java-program-to-convert-decimal-to-octal/)
 
 [How to remove element from arraylist in java](https://www.flowerbrackets.com/how-to-remove-element-from-arraylist-in-java/)
+
+[Java program to print odd and even numbers in an array](https://www.flowerbrackets.com/java-program-to-print-odd-and-even-numbers-in-an-array/)
