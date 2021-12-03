@@ -210,3 +210,5 @@ Let's learn basic java programs.
 [Find minimum and maximum values in a java array](https://www.flowerbrackets.com/find-minimum-and-maximum-values-in-a-array-java/)
 
 [Static method – java convert decimal to octal](https://www.flowerbrackets.com/static-method-java-program-to-convert-decimal-to-octal/)
+
+[Recursion – java program to convert decimal to octal](https://www.flowerbrackets.com/recursion-java-program-to-convert-decimal-to-octal/)
