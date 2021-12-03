@@ -216,3 +216,5 @@ Let's learn basic java programs.
 [How to remove element from arraylist in java](https://www.flowerbrackets.com/how-to-remove-element-from-arraylist-in-java/)
 
 [Java program to print odd and even numbers in an array](https://www.flowerbrackets.com/java-program-to-print-odd-and-even-numbers-in-an-array/)
+
+[Even odd program in java using ternary operator](https://www.flowerbrackets.com/even-odd-program-in-java-using-ternary-operator/)
