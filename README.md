@@ -218,3 +218,5 @@ Let's learn basic java programs.
 [Java program to print odd and even numbers in an array](https://www.flowerbrackets.com/java-program-to-print-odd-and-even-numbers-in-an-array/)
 
 [Even odd program in java using ternary operator](https://www.flowerbrackets.com/even-odd-program-in-java-using-ternary-operator/)
+
+[Java Bitwise AND to check a given number is odd or even](https://www.flowerbrackets.com/java-bitwise-and-to-check-given-number-odd-or-even/)
