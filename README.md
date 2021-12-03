@@ -220,3 +220,5 @@ Let's learn basic java programs.
 [Even odd program in java using ternary operator](https://www.flowerbrackets.com/even-odd-program-in-java-using-ternary-operator/)
 
 [Java Bitwise AND to check a given number is odd or even](https://www.flowerbrackets.com/java-bitwise-and-to-check-given-number-odd-or-even/)
+
+[Java program to print armstrong number from 1 to 1000](https://www.flowerbrackets.com/java-program-to-print-armstrong-number-from-1-to-1000/)
