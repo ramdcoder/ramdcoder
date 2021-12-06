@@ -230,3 +230,5 @@ Let's learn basic java programs.
 [Java program to remove vowels from a string using switch case](https://www.flowerbrackets.com/java-program-remove-vowels-string-switch-case/)
 
 [Java program to remove vowels from string using StringBuffer class](https://www.flowerbrackets.com/java-program-remove-vowels-string-buffer-class/)
+
+[Java program to display prime numbers from 1 to 100](https://www.flowerbrackets.com/java-program-to-display-prime-numbers-from-1-to-100/)
