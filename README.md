@@ -244,3 +244,5 @@ Let's learn basic java programs.
 [Sort string array in case insensitive order and case sensitive order java](https://www.flowerbrackets.com/sort-string-array-case-sensitive-order-and-case-insensitive-order-java/)
 
 [Java program to sort names in an alphabetical order](https://www.flowerbrackets.com/java-program-sort-string-names-alphabetical-order/)
+
+[Java program to convert decimal to binary using toBinaryString and stack](https://www.flowerbrackets.com/java-decimal-to-binary-using-tobinarystring-and-stack/)
