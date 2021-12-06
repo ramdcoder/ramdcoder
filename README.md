@@ -242,3 +242,5 @@ Let's learn basic java programs.
 [Java program to find the largest in three numbers using nested if](https://www.flowerbrackets.com/java-program-largest-three-numbers-nested-if/)
 
 [Sort string array in case insensitive order and case sensitive order java](https://www.flowerbrackets.com/sort-string-array-case-sensitive-order-and-case-insensitive-order-java/)
+
+[Java program to sort names in an alphabetical order](https://www.flowerbrackets.com/java-program-sort-string-names-alphabetical-order/)
