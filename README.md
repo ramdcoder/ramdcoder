@@ -240,3 +240,5 @@ Let's learn basic java programs.
 [Java program to find largest in three numbers using ternary operator](https://www.flowerbrackets.com/java-program-find-largest-in-three-numbers-using-ternary-operator/)
 
 [Java program to find the largest in three numbers using nested if](https://www.flowerbrackets.com/java-program-largest-three-numbers-nested-if/)
+
+[Sort string array in case insensitive order and case sensitive order java](https://www.flowerbrackets.com/sort-string-array-case-sensitive-order-and-case-insensitive-order-java/)
