@@ -232,3 +232,5 @@ Let's learn basic java programs.
 [Java program to remove vowels from string using StringBuffer class](https://www.flowerbrackets.com/java-program-remove-vowels-string-buffer-class/)
 
 [Java program to display prime numbers from 1 to 100](https://www.flowerbrackets.com/java-program-to-display-prime-numbers-from-1-to-100/)
+
+[Java program to check if it is a sparse matrix](https://www.flowerbrackets.com/java-program-check-sparse-matrix/)
