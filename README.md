@@ -236,3 +236,5 @@ Let's learn basic java programs.
 [Java program to check if it is a sparse matrix](https://www.flowerbrackets.com/java-program-check-sparse-matrix/)
 
 [Difference between == operator and equals method in java](https://www.flowerbrackets.com/difference-between-equal-operator-vs-equals-method-java/)
+
+[Java program to find largest in three numbers using ternary operator](https://www.flowerbrackets.com/java-program-find-largest-in-three-numbers-using-ternary-operator/)
