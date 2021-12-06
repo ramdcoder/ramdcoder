@@ -238,3 +238,5 @@ Let's learn basic java programs.
 [Difference between == operator and equals method in java](https://www.flowerbrackets.com/difference-between-equal-operator-vs-equals-method-java/)
 
 [Java program to find largest in three numbers using ternary operator](https://www.flowerbrackets.com/java-program-find-largest-in-three-numbers-using-ternary-operator/)
+
+[Java program to find the largest in three numbers using nested if](https://www.flowerbrackets.com/java-program-largest-three-numbers-nested-if/)
