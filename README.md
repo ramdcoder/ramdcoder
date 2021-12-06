@@ -226,3 +226,5 @@ Let's learn basic java programs.
 [Java program to check armstrong number](https://www.flowerbrackets.com/java-program-to-check-armstrong-number/)
 
 [Java program find GCD and LCM of two numbers using euclid’s algorithm](https://www.flowerbrackets.com/java-program-find-gcd-lcm-two-numbers-euclids-algorithm/)
+
+[Java program to remove vowels from a string using switch case](https://www.flowerbrackets.com/java-program-remove-vowels-string-switch-case/)
