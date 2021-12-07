@@ -266,3 +266,5 @@ Let's learn basic java programs.
 [Remove duplicate elements in an array in java](https://www.flowerbrackets.com/remove-duplicate-array-java/)
 
 [Binary to octal in java](https://www.flowerbrackets.com/binary-to-octal-in-java/)
+
+[Java program to find area and perimeter of square](https://www.flowerbrackets.com/java-program-to-find-perimeter-of-square/)
