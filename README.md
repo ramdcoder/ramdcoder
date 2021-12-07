@@ -282,3 +282,5 @@ Let's learn basic java programs.
 [Area of equilateral triangle in java](https://www.flowerbrackets.com/area-of-equilateral-triangle-in-java/)
 
 [Hexadecimal to octal in java](https://www.flowerbrackets.com/hexadecimal-to-octal-in-java/)
+
+[Octal to binary in java](https://www.flowerbrackets.com/octal-to-binary-in-java/)
