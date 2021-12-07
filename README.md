@@ -258,3 +258,5 @@ Let's learn basic java programs.
 [String constructors in java](https://www.flowerbrackets.com/string-constructors-in-java/)
 
 [Do while loop in java](https://www.flowerbrackets.com/do-while-loop-java/)
+
+[Java program to find LCM of two numbers](https://www.flowerbrackets.com/java-program-to-find-lcm-of-two-numbers/)
