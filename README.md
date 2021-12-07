@@ -264,3 +264,5 @@ Let's learn basic java programs.
 [Java program to find largest of three numbers](https://www.flowerbrackets.com/java-largest-of-three-numbers/)
 
 [Remove duplicate elements in an array in java](https://www.flowerbrackets.com/remove-duplicate-array-java/)
+
+[Binary to octal in java](https://www.flowerbrackets.com/binary-to-octal-in-java/)
