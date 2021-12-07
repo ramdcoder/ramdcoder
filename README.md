@@ -284,3 +284,5 @@ Let's learn basic java programs.
 [Hexadecimal to octal in java](https://www.flowerbrackets.com/hexadecimal-to-octal-in-java/)
 
 [Octal to binary in java](https://www.flowerbrackets.com/octal-to-binary-in-java/)
+
+[Octal to hexadecimal in java](https://www.flowerbrackets.com/octal-to-hexadecimal-in-java/)
