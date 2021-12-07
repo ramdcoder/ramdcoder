@@ -280,3 +280,5 @@ Let's learn basic java programs.
 [Area of octagon in java](https://www.flowerbrackets.com/area-of-octagon-in-java/)
 
 [Area of equilateral triangle in java](https://www.flowerbrackets.com/area-of-equilateral-triangle-in-java/)
+
+[Hexadecimal to octal in java](https://www.flowerbrackets.com/hexadecimal-to-octal-in-java/)
