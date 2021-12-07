@@ -276,3 +276,5 @@ Let's learn basic java programs.
 [Perimeter of rhombus in java](https://www.flowerbrackets.com/perimeter-of-rhombus-in-java/)
 
 [Pronic number in java](https://www.flowerbrackets.com/pronic-number-in-java/)
+
+[Area of octagon in java](https://www.flowerbrackets.com/area-of-octagon-in-java/)
