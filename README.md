@@ -270,3 +270,5 @@ Let's learn basic java programs.
 [Java program to find area and perimeter of square](https://www.flowerbrackets.com/java-program-to-find-perimeter-of-square/)
 
 [Java program to check neon number](https://www.flowerbrackets.com/java-program-to-check-neon-number/)
+
+[Area of rhombus in java](https://www.flowerbrackets.com/area-of-rhombus-in-java/)
