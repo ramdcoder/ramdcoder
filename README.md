@@ -260,3 +260,5 @@ Let's learn basic java programs.
 [Do while loop in java](https://www.flowerbrackets.com/do-while-loop-java/)
 
 [Java program to find LCM of two numbers](https://www.flowerbrackets.com/java-program-to-find-lcm-of-two-numbers/)
+
+[Java program to find largest of three numbers](https://www.flowerbrackets.com/java-largest-of-three-numbers/)
