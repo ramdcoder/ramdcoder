@@ -252,3 +252,5 @@ Let's learn basic java programs.
 [Java program to check whether string is palindrome using library methods](https://www.flowerbrackets.com/java-program-to-check-palindrome-using-library-methods/)
 
 [Java program to check palindrome string using recursion](https://www.flowerbrackets.com/java-program-to-check-palindrome-string-using-recursion/)
+
+[Java program to add two numbers using method](https://www.flowerbrackets.com/java-program-to-add-two-numbers-using-method/)
