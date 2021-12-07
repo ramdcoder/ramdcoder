@@ -278,3 +278,5 @@ Let's learn basic java programs.
 [Pronic number in java](https://www.flowerbrackets.com/pronic-number-in-java/)
 
 [Area of octagon in java](https://www.flowerbrackets.com/area-of-octagon-in-java/)
+
+[Area of equilateral triangle in java](https://www.flowerbrackets.com/area-of-equilateral-triangle-in-java/)
