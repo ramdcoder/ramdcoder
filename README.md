@@ -246,3 +246,5 @@ Let's learn basic java programs.
 [Java program to sort names in an alphabetical order](https://www.flowerbrackets.com/java-program-sort-string-names-alphabetical-order/)
 
 [Java program to convert decimal to binary using toBinaryString and stack](https://www.flowerbrackets.com/java-decimal-to-binary-using-tobinarystring-and-stack/)
+
+[Java program to convert decimal number to binary & count number of 1s](https://www.flowerbrackets.com/java-program-convert-decimal-to-binary-count-number-1s/)
