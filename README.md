@@ -262,3 +262,5 @@ Let's learn basic java programs.
 [Java program to find LCM of two numbers](https://www.flowerbrackets.com/java-program-to-find-lcm-of-two-numbers/)
 
 [Java program to find largest of three numbers](https://www.flowerbrackets.com/java-largest-of-three-numbers/)
+
+[Remove duplicate elements in an array in java](https://www.flowerbrackets.com/remove-duplicate-array-java/)
