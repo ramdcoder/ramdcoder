@@ -360,3 +360,5 @@ Let's learn basic java programs.
 [HashSet add(E e) method in java](https://www.flowerbrackets.com/hashset-add-e-method-in-java/)
 
 [HashSet clear() method in java](https://www.flowerbrackets.com/hashset-clear-method-in-java/)
+
+[HashSet Object clone() method in java](https://www.flowerbrackets.com/hashset-object-clone-method-in-java/)
