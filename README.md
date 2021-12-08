@@ -358,3 +358,5 @@ Let's learn basic java programs.
 [ArrayList spliterator() method in java](https://www.flowerbrackets.com/arraylist-spliterator-method-in-java/)
 
 [HashSet add(E e) method in java](https://www.flowerbrackets.com/hashset-add-e-method-in-java/)
+
+[HashSet clear() method in java](https://www.flowerbrackets.com/hashset-clear-method-in-java/)
