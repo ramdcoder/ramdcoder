@@ -334,3 +334,5 @@ Let's learn basic java programs.
 [ArrayList clear() method in java](https://www.flowerbrackets.com/arraylist-clear-method-in-java/)
 
 [ArrayList subList(int fromIndex, int toIndex) method in java](https://www.flowerbrackets.com/arraylist-sublist-fromindex-toindex-method-in-java/)
+
+[ArrayList iterator(<E>) method in java](https://www.flowerbrackets.com/arrayist-iterator-method-in-java/)
