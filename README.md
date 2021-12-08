@@ -356,3 +356,5 @@ Let's learn basic java programs.
 [ArrayList set(int index, E element) method in java](https://www.flowerbrackets.com/arraylist-set-int-index-e-element-method-in-java/)
 
 [ArrayList spliterator() method in java](https://www.flowerbrackets.com/arraylist-spliterator-method-in-java/)
+
+[HashSet add(E e) method in java](https://www.flowerbrackets.com/hashset-add-e-method-in-java/)
