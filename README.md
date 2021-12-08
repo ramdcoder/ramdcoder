@@ -354,3 +354,5 @@ Let's learn basic java programs.
 [ArrayList removeRange(int fromIndex, int toIndex) method in java](https://www.flowerbrackets.com/arraylist-removerange-int-fromindex-int-toindex-method-in-java/)
 
 [ArrayList set(int index, E element) method in java](https://www.flowerbrackets.com/arraylist-set-int-index-e-element-method-in-java/)
+
+[ArrayList spliterator() method in java](https://www.flowerbrackets.com/arraylist-spliterator-method-in-java/)
