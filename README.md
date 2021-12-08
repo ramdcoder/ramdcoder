@@ -338,3 +338,5 @@ Let's learn basic java programs.
 [ArrayList iterator(<E>) method in java](https://www.flowerbrackets.com/arrayist-iterator-method-in-java/)
 
 [ArrayList <E> listIterator(int index) method in java](https://www.flowerbrackets.com/arraylist-listiterator-method-in-java/)
+
+[ArrayList listIterator(int index) method in java](https://www.flowerbrackets.com/arraylist-listiterator-int-index-method-in-java/)  
