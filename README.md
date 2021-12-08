@@ -292,3 +292,5 @@ Let's learn basic java programs.
 [Hexadecimal to binary in java](https://www.flowerbrackets.com/hexadecimal-to-binary-in-java/)
 
 [Convert uppercase to lowercase in java without using string function](https://www.flowerbrackets.com/convert-uppercase-to-lowercase-in-java-without-using-string-function/)
+
+[Area and perimeter of trapezium in java](https://www.flowerbrackets.com/area-and-perimeter-of-trapezium-in-java/)
