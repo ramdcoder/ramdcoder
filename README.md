@@ -330,3 +330,5 @@ Let's learn basic java programs.
 [ArrayList isEmpty() method in java](https://www.flowerbrackets.com/arraylist-isempty-method-in-java/)
 
 [ArrayList size() method in java](https://www.flowerbrackets.com/arraylist-size-method-in-java/)
+
+[ArrayList clear() method in java](https://www.flowerbrackets.com/arraylist-clear-method-in-java/)
