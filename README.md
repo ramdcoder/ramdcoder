@@ -296,3 +296,5 @@ Let's learn basic java programs.
 [Area and perimeter of trapezium in java](https://www.flowerbrackets.com/area-and-perimeter-of-trapezium-in-java/)
 
 [Area of Isosceles Triangle in java](https://www.flowerbrackets.com/area-of-isosceles-triangle-in-java/)
+
+[Area of parallelogram in java](https://www.flowerbrackets.com/area-of-parallelogram-in-java/)
