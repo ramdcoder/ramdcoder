@@ -290,3 +290,5 @@ Let's learn basic java programs.
 [Binary to hexadecimal in java](https://www.flowerbrackets.com/binary-to-hexadecimal-in-java/)
 
 [Hexadecimal to binary in java](https://www.flowerbrackets.com/hexadecimal-to-binary-in-java/)
+
+[Convert uppercase to lowercase in java without using string function](https://www.flowerbrackets.com/convert-uppercase-to-lowercase-in-java-without-using-string-function/)
