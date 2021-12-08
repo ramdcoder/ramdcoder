@@ -316,3 +316,5 @@ Let's learn basic java programs.
 [ArrayList retainAll(Collection<?> c) method in java](https://www.flowerbrackets.com/arraylist-retainall-collection-method-in-java/)
 
 [ArrayList clone() method in java](https://www.flowerbrackets.com/arraylist-clone-method-in-java/)
+
+[ArrayList contains(Object o) method in java](https://www.flowerbrackets.com/arraylist-contains-object-method-in-java/)
