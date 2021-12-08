@@ -328,3 +328,5 @@ Let's learn basic java programs.
 [ArrayList lastIndexOf(Object o) method in java](https://www.flowerbrackets.com/arraylist-lastindexof-object-method-in-java/)
 
 [ArrayList isEmpty() method in java](https://www.flowerbrackets.com/arraylist-isempty-method-in-java/)
+
+[ArrayList size() method in java](https://www.flowerbrackets.com/arraylist-size-method-in-java/)
