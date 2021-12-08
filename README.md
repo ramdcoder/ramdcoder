@@ -350,3 +350,5 @@ Let's learn basic java programs.
 [ArrayList ensureCapacity(int minCapacity) method in java](https://www.flowerbrackets.com/arraylist-ensurecapacity-int-mincapacity-method-in-java/)  
 
 [ArrayList forEach(Consumer<? super E> action) method in java](https://www.flowerbrackets.com/arraylist-foreach-consumer-super-action-method-in-java/)
+
+[ArrayList removeRange(int fromIndex, int toIndex) method in java](https://www.flowerbrackets.com/arraylist-removerange-int-fromindex-int-toindex-method-in-java/)
