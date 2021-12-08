@@ -306,3 +306,5 @@ Let's learn basic java programs.
 [ArrayList removeAll(Collection c) method in java](https://www.flowerbrackets.com/arraylist-removeall-collection-method-in-java/)
 
 [ArrayList remove(Object o) method in java](https://www.flowerbrackets.com/arraylist-remove-object-method-in-java/)
+
+[ArrayList addAll(int index, Collection<? extends E> c) method in java](https://www.flowerbrackets.com/arraylist-addall-collection-extends-method-in-java/)
