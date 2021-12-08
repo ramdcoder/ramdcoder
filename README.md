@@ -294,3 +294,5 @@ Let's learn basic java programs.
 [Convert uppercase to lowercase in java without using string function](https://www.flowerbrackets.com/convert-uppercase-to-lowercase-in-java-without-using-string-function/)
 
 [Area and perimeter of trapezium in java](https://www.flowerbrackets.com/area-and-perimeter-of-trapezium-in-java/)
+
+[Area of Isosceles Triangle in java](https://www.flowerbrackets.com/area-of-isosceles-triangle-in-java/)
