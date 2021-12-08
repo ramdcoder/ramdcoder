@@ -342,3 +342,5 @@ Let's learn basic java programs.
 [ArrayList listIterator(int index) method in java](https://www.flowerbrackets.com/arraylist-listiterator-int-index-method-in-java/)  
 
 [ArrayList Object[] toArray() method in java](https://www.flowerbrackets.com/arraylist-object-toarray-method-in-java/)  
+
+[ArrayList remove(int index) method in java](https://www.flowerbrackets.com/arraylist-remove-int-index-method-in-java/)  
