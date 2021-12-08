@@ -300,3 +300,5 @@ Let's learn basic java programs.
 [Area of parallelogram in java](https://www.flowerbrackets.com/area-of-parallelogram-in-java/)
 
 [Perimeter of parallelogram in java](https://www.flowerbrackets.com/perimeter-of-parallelogram-in-java/)
+
+[ArrayList trimToSize() method in java](https://www.flowerbrackets.com/arraylist-trimtosize-method-in-java/)
