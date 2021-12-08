@@ -298,3 +298,5 @@ Let's learn basic java programs.
 [Area of Isosceles Triangle in java](https://www.flowerbrackets.com/area-of-isosceles-triangle-in-java/)
 
 [Area of parallelogram in java](https://www.flowerbrackets.com/area-of-parallelogram-in-java/)
+
+[Perimeter of parallelogram in java](https://www.flowerbrackets.com/perimeter-of-parallelogram-in-java/)
