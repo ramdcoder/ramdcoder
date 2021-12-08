@@ -302,3 +302,5 @@ Let's learn basic java programs.
 [Perimeter of parallelogram in java](https://www.flowerbrackets.com/perimeter-of-parallelogram-in-java/)
 
 [ArrayList trimToSize() method in java](https://www.flowerbrackets.com/arraylist-trimtosize-method-in-java/)
+
+[ArrayList removeAll(Collection c) method in java](https://www.flowerbrackets.com/arraylist-removeall-collection-method-in-java/)
