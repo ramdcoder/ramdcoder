@@ -366,3 +366,5 @@ Let's learn basic java programs.
 [HashSet contains(Object o) method in java](https://www.flowerbrackets.com/hashset-contains-object-o-method-in-java/)
 
 [HashSet isEmpty() method in java](https://www.flowerbrackets.com/hashset-isempty-method-in-java/)
+
+[HashSet Iterator<E> iterator() method in java](https://www.flowerbrackets.com/hashset-iterator-method-in-java/)
