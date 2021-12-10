@@ -372,3 +372,5 @@ Let's learn basic java programs.
 [HashSet remove(Object o) method in java](https://www.flowerbrackets.com/hashset-remove-object-o-method-in-java/)
 
 [HashSet size() method in java](https://www.flowerbrackets.com/hashset-size-method-in-java/)
+
+[HashSet removeAll(Collection<?> c) method in java](https://www.flowerbrackets.com/hashset-removeall-method-in-java/)
