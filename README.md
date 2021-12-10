@@ -402,3 +402,5 @@ Let's learn basic java programs.
 [TreeMap firstEntry() method in java](https://www.flowerbrackets.com/treemap-firstentry-method-in-java/)  
 
 [TreeMap floorEntry() method in java](https://www.flowerbrackets.com/treemap-floorentry-method-in-java/)  
+
+[TreeMap headMap() method in java](https://www.flowerbrackets.com/treemap-headmap-method-in-java/)  
