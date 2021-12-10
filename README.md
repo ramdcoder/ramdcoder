@@ -374,3 +374,5 @@ Let's learn basic java programs.
 [HashSet size() method in java](https://www.flowerbrackets.com/hashset-size-method-in-java/)
 
 [HashSet removeAll(Collection<?> c) method in java](https://www.flowerbrackets.com/hashset-removeall-method-in-java/)
+
+[LinkedHashSet class in java](https://www.flowerbrackets.com/linkedhashset-in-java/)  
