@@ -384,3 +384,5 @@ Let's learn basic java programs.
 [TreeMap clone() method in java](https://www.flowerbrackets.com/treemap-clone-method-in-java/)  
 
 [TreeMap floorKey(K key) method in java](https://www.flowerbrackets.com/treemap-floorkey-method-in-java/)  
+
+[TreeMap ceilingKey(K key) method in java](https://www.flowerbrackets.com/treemap-ceilingkey-method-in-java/)  
