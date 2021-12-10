@@ -368,3 +368,5 @@ Let's learn basic java programs.
 [HashSet isEmpty() method in java](https://www.flowerbrackets.com/hashset-isempty-method-in-java/)
 
 [HashSet Iterator<E> iterator() method in java](https://www.flowerbrackets.com/hashset-iterator-method-in-java/)
+
+[HashSet remove(Object o) method in java](https://www.flowerbrackets.com/hashset-remove-object-o-method-in-java/)
