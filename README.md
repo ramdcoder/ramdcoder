@@ -386,3 +386,5 @@ Let's learn basic java programs.
 [TreeMap floorKey(K key) method in java](https://www.flowerbrackets.com/treemap-floorkey-method-in-java/)  
 
 [TreeMap ceilingKey(K key) method in java](https://www.flowerbrackets.com/treemap-ceilingkey-method-in-java/)  
+
+[TreeMap clear() method in java](https://www.flowerbrackets.com/treemap-clear-method-in-java/)  
