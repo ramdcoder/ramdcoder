@@ -380,3 +380,5 @@ Let's learn basic java programs.
 [TreeMap K firstKey() method in java](https://www.flowerbrackets.com/treemap-k-firstkey-method-in-java/)  
 
 [TreeMap V get(Object key) method in java](https://www.flowerbrackets.com/treemap-v-get-object-key-method-in-java/)  
+
+[TreeMap clone() method in java](https://www.flowerbrackets.com/treemap-clone-method-in-java/)  
