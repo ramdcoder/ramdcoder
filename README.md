@@ -387,4 +387,6 @@ Let's learn basic java programs.
 
 [TreeMap ceilingKey(K key) method in java](https://www.flowerbrackets.com/treemap-ceilingkey-method-in-java/)  
 
-[TreeMap clear() method in java](https://www.flowerbrackets.com/treemap-clear-method-in-java/)  
+[TreeMap clear() method in java](https://www.flowerbrackets.com/treemap-clear-method-in-java/)
+  
+[TreeMap containsKey(Object key) method in java](https://www.flowerbrackets.com/treemap-containskey-method-in-java/)  
