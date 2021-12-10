@@ -410,3 +410,5 @@ Let's learn basic java programs.
 [TreeMap higherKey() method in java](https://www.flowerbrackets.com/treemap-higherkey-method-in-java/)  
 
 [TreeMap keySet() method in java](https://www.flowerbrackets.com/treemap-keyset-method-in-java/)  
+
+[TreeMap lastEntry() method in java](https://www.flowerbrackets.com/treemap-lastentry-method-in-java/)  
