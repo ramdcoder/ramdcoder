@@ -406,3 +406,5 @@ Let's learn basic java programs.
 [TreeMap headMap() method in java](https://www.flowerbrackets.com/treemap-headmap-method-in-java/)  
 
 [TreeMap headMap(K toKey boolean inclusive) method in java](https://www.flowerbrackets.com/treemap-headmap-k-tokey-boolean-inclusive-method-in-java/)  
+
+[TreeMap higherKey() method in java](https://www.flowerbrackets.com/treemap-higherkey-method-in-java/)  
