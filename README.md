@@ -382,3 +382,5 @@ Let's learn basic java programs.
 [TreeMap V get(Object key) method in java](https://www.flowerbrackets.com/treemap-v-get-object-key-method-in-java/)  
 
 [TreeMap clone() method in java](https://www.flowerbrackets.com/treemap-clone-method-in-java/)  
+
+[TreeMap floorKey(K key) method in java](https://www.flowerbrackets.com/treemap-floorkey-method-in-java/)  
