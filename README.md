@@ -430,3 +430,5 @@ Let's learn basic java programs.
 [TreeMap putAll(Map<? extends K,? extends V> map) method in java](https://www.flowerbrackets.com/treemap-putall-method-in-java/)  
 
 [TreeMap remove(Object key) method in java](https://www.flowerbrackets.com/treemap-remove-object-key-method-in-java/)
+
+[TreeMap size() method in java](https://www.flowerbrackets.com/treemap-size-method-in-java/)
