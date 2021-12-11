@@ -450,3 +450,5 @@ Let's learn basic java programs.
 [TreeSet clear() method in java](https://www.flowerbrackets.com/treeset-clear-method-in-java/)
 
 [TreeSet descendingIterator() method in java](https://www.flowerbrackets.com/treeset-descendingiterator-method-in-java/)
+
+[TreeSet descendingSet() method in java](https://www.flowerbrackets.com/treeset-descendingset-method-in-java/)
