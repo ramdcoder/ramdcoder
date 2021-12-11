@@ -454,3 +454,5 @@ Let's learn basic java programs.
 [TreeSet descendingSet() method in java](https://www.flowerbrackets.com/treeset-descendingset-method-in-java/)
 
 [TreeSet clone() method in java](https://www.flowerbrackets.com/treeset-clone-method-in-java/)
+
+[TreeSet contains(Object o) method in java](https://www.flowerbrackets.com/treeset-contains-object-o-method-in-java/)
