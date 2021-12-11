@@ -456,3 +456,5 @@ Let's learn basic java programs.
 [TreeSet clone() method in java](https://www.flowerbrackets.com/treeset-clone-method-in-java/)
 
 [TreeSet contains(Object o) method in java](https://www.flowerbrackets.com/treeset-contains-object-o-method-in-java/)
+
+[TreeSet floor(E e) method in java](https://www.flowerbrackets.com/treeset-floor-method-in-java/)
