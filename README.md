@@ -446,3 +446,5 @@ Let's learn basic java programs.
 [TreeSet addAll(Collection<? extends E> c) method in java](https://www.flowerbrackets.com/treeset-addall-method-in-java/)
 
 [TreeSet ceiling(E e) method in java](https://www.flowerbrackets.com/treeset-ceiling-method-in-java/)
+
+[TreeSet clear() method in java](https://www.flowerbrackets.com/treeset-clear-method-in-java/)
