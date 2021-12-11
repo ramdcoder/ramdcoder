@@ -432,3 +432,5 @@ Let's learn basic java programs.
 [TreeMap remove(Object key) method in java](https://www.flowerbrackets.com/treemap-remove-object-key-method-in-java/)
 
 [TreeMap size() method in java](https://www.flowerbrackets.com/treemap-size-method-in-java/)
+
+[TreeMap subMap(K fromKey, boolean fromInclusive, K toKey, boolean toInclusive) method in java](https://www.flowerbrackets.com/treemap-submap-method-in-java/)
