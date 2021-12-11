@@ -426,3 +426,5 @@ Let's learn basic java programs.
 [TreeMap pollLastEntry() method in java](https://www.flowerbrackets.com/treemap-polllastentry-method-in-java/)  
 
 [TreeMap put() method in java](https://www.flowerbrackets.com/treemap-put-method-in-java/)  
+
+[TreeMap putAll(Map<? extends K,? extends V> map) method in java](https://www.flowerbrackets.com/treemap-putall-method-in-java/)  
