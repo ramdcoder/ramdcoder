@@ -504,3 +504,5 @@ Let's learn basic java programs.
 [Java program to find area of circle using bufferedreader](https://www.flowerbrackets.com/java-program-to-find-area-of-circle-using-bufferedreader/)
 
 [Addition of two numbers in java using class and objects](https://www.flowerbrackets.com/addition-of-two-numbers-in-java-using-class-and-objects/)
+
+[Java program to find area of triangle](https://www.flowerbrackets.com/java-program-to-find-area-of-triangle/)
