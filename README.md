@@ -466,3 +466,5 @@ Let's learn basic java programs.
 [TreeSet isEmpty() method in java](https://www.flowerbrackets.com/treeset-isempty-method-in-java/)
 
 [TreeSet iterator() method in java](https://www.flowerbrackets.com/treeset-iterator-method-in-java/)
+
+[TreeSet last() method in java](https://www.flowerbrackets.com/treeset-last-method-in-java/)
