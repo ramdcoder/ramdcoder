@@ -520,3 +520,5 @@ Let's learn basic java programs.
 [Java program convert decimal to octal using while loop](https://www.flowerbrackets.com/java-program-convert-decimal-to-octal-using-while-loop/)
 
 [Remove element from a specific index from an array in java](https://www.flowerbrackets.com/remove-element-from-a-specific-index-from-an-array-in-java/)
+
+[Java program to insert an element at specific position in an array](https://www.flowerbrackets.com/java-program-to-insert-an-element-at-specific-position-in-an-array/)
