@@ -518,3 +518,5 @@ Let's learn basic java programs.
 [Java program to convert decimal to hexadecimal using recursion](https://www.flowerbrackets.com/java-program-to-convert-decimal-to-hexadecimal-using-recursion/)
 
 [Java program convert decimal to octal using while loop](https://www.flowerbrackets.com/java-program-convert-decimal-to-octal-using-while-loop/)
+
+[Remove element from a specific index from an array in java](https://www.flowerbrackets.com/remove-element-from-a-specific-index-from-an-array-in-java/)
