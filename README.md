@@ -492,3 +492,5 @@ Let's learn basic java programs.
 [String indexOf(String str, int fromIndex) method in java](https://www.flowerbrackets.com/string-indexof-string-str-int-fromindex-method-in-java/)
 
 [Super keyword in java](https://www.flowerbrackets.com/super-keyword-in-java/)
+
+[Anagram java program](https://www.flowerbrackets.com/anagram-java-program/)
