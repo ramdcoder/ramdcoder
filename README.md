@@ -512,3 +512,5 @@ Let's learn basic java programs.
 [Multiply two numbers without using arithmetic operators in java](https://www.flowerbrackets.com/multiply-two-numbers-without-using-arithmetic-operators-java/)
 
 [Convert decimal number to binary in java without using array](https://www.flowerbrackets.com/convert-decimal-number-to-binary-in-java-without-using-array/)
+
+[Decimal number to binary in java using recursion](https://www.flowerbrackets.com/decimal-number-to-binary-in-java-using-recursion/)
