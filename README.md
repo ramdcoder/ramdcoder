@@ -498,3 +498,5 @@ Let's learn basic java programs.
 [Array java programs examples with output for practice](https://www.flowerbrackets.com/array-java-programs-examples/)
 
 [How to compile and run java program](https://www.flowerbrackets.com/how-to-compile-java-programs/)
+
+[Encapsulation in java](https://www.flowerbrackets.com/encapsulation-in-java-programs/)
