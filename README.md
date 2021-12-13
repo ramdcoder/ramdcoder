@@ -468,3 +468,5 @@ Let's learn basic java programs.
 [TreeSet iterator() method in java](https://www.flowerbrackets.com/treeset-iterator-method-in-java/)
 
 [TreeSet last() method in java](https://www.flowerbrackets.com/treeset-last-method-in-java/)
+
+[TreeSet lower(E e) method in java](https://www.flowerbrackets.com/treeset-lower-method-in-java/)
