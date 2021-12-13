@@ -488,3 +488,5 @@ Let's learn basic java programs.
 [TreeSet headSet(E toElement) method in java](https://www.flowerbrackets.com/treeset-headset-e-toelement-method-in-java/)
 
 [String toLowerCase(Locale locale) method in java](https://www.flowerbrackets.com/string-tolowercase-locale-method-in-java/)
+
+[String indexOf(String str, int fromIndex) method in java](https://www.flowerbrackets.com/string-indexof-string-str-int-fromindex-method-in-java/)
