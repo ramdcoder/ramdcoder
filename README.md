@@ -514,3 +514,5 @@ Let's learn basic java programs.
 [Convert decimal number to binary in java without using array](https://www.flowerbrackets.com/convert-decimal-number-to-binary-in-java-without-using-array/)
 
 [Decimal number to binary in java using recursion](https://www.flowerbrackets.com/decimal-number-to-binary-in-java-using-recursion/)
+
+[Java program to convert decimal to hexadecimal using recursion](https://www.flowerbrackets.com/java-program-to-convert-decimal-to-hexadecimal-using-recursion/)
