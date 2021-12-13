@@ -506,3 +506,5 @@ Let's learn basic java programs.
 [Addition of two numbers in java using class and objects](https://www.flowerbrackets.com/addition-of-two-numbers-in-java-using-class-and-objects/)
 
 [Java program to find area of triangle](https://www.flowerbrackets.com/java-program-to-find-area-of-triangle/)
+
+[Subtract two numbers without using arithmetic operators in java](https://www.flowerbrackets.com/subtract-two-numbers-without-using-arithmetic-operators-java/)
