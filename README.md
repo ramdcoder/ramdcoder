@@ -516,3 +516,5 @@ Let's learn basic java programs.
 [Decimal number to binary in java using recursion](https://www.flowerbrackets.com/decimal-number-to-binary-in-java-using-recursion/)
 
 [Java program to convert decimal to hexadecimal using recursion](https://www.flowerbrackets.com/java-program-to-convert-decimal-to-hexadecimal-using-recursion/)
+
+[Java program convert decimal to octal using while loop](https://www.flowerbrackets.com/java-program-convert-decimal-to-octal-using-while-loop/)
