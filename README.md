@@ -486,3 +486,5 @@ Let's learn basic java programs.
 [TreeSet headSet(E toElement, boolean inclusive) method in java](https://www.flowerbrackets.com/treeset-headset-toelement-inclusive-method-in-java/)
 
 [TreeSet headSet(E toElement) method in java](https://www.flowerbrackets.com/treeset-headset-e-toelement-method-in-java/)
+
+[String toLowerCase(Locale locale) method in java](https://www.flowerbrackets.com/string-tolowercase-locale-method-in-java/)
