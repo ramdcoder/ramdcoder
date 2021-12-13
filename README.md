@@ -508,3 +508,5 @@ Let's learn basic java programs.
 [Java program to find area of triangle](https://www.flowerbrackets.com/java-program-to-find-area-of-triangle/)
 
 [Subtract two numbers without using arithmetic operators in java](https://www.flowerbrackets.com/subtract-two-numbers-without-using-arithmetic-operators-java/)
+
+[Multiply two numbers without using arithmetic operators in java](https://www.flowerbrackets.com/multiply-two-numbers-without-using-arithmetic-operators-java/)
