@@ -510,3 +510,5 @@ Let's learn basic java programs.
 [Subtract two numbers without using arithmetic operators in java](https://www.flowerbrackets.com/subtract-two-numbers-without-using-arithmetic-operators-java/)
 
 [Multiply two numbers without using arithmetic operators in java](https://www.flowerbrackets.com/multiply-two-numbers-without-using-arithmetic-operators-java/)
+
+[Convert decimal number to binary in java without using array](https://www.flowerbrackets.com/convert-decimal-number-to-binary-in-java-without-using-array/)
