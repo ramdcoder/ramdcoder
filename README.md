@@ -494,3 +494,5 @@ Let's learn basic java programs.
 [Super keyword in java](https://www.flowerbrackets.com/super-keyword-in-java/)
 
 [Anagram java program](https://www.flowerbrackets.com/anagram-java-program/)
+
+[Array java programs examples with output for practice](https://www.flowerbrackets.com/array-java-programs-examples/)
