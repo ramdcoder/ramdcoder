@@ -522,3 +522,5 @@ Let's learn basic java programs.
 [Remove element from a specific index from an array in java](https://www.flowerbrackets.com/remove-element-from-a-specific-index-from-an-array-in-java/)
 
 [Java program to insert an element at specific position in an array](https://www.flowerbrackets.com/java-program-to-insert-an-element-at-specific-position-in-an-array/)
+
+[Display even and odd numbers in java using for loop](https://www.flowerbrackets.com/display-even-and-odd-numbers-in-java-using-for-loop/)
