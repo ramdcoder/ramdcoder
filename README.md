@@ -470,3 +470,5 @@ Let's learn basic java programs.
 [TreeSet last() method in java](https://www.flowerbrackets.com/treeset-last-method-in-java/)
 
 [TreeSet lower(E e) method in java](https://www.flowerbrackets.com/treeset-lower-method-in-java/)
+
+[TreeSet remove(Object o) method in java](https://www.flowerbrackets.com/treeset-remove-method-in-java/)
