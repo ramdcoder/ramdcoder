@@ -526,3 +526,5 @@ Let's learn basic java programs.
 [Display even and odd numbers in java using for loop](https://www.flowerbrackets.com/display-even-and-odd-numbers-in-java-using-for-loop/)
 
 [Armstrong number in java using recursion](https://www.flowerbrackets.com/armstrong-number-in-java-using-recursion/)
+
+[TreeSet contains(Object o) method in java](https://www.flowerbrackets.com/treeset-contains-object-o-method-in-java/)
