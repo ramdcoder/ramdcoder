@@ -536,3 +536,5 @@ Let's learn basic java programs.
 [Reverse factorial program in java](https://www.flowerbrackets.com/reverse-factorial-program-in-java/)
 
 [Factorial from 1 to 10 in java](https://www.flowerbrackets.com/factorial-from-1-to-10-in-java/)
+
+[4 Digit Armstrong number in java](https://www.flowerbrackets.com/4-digit-armstrong-number-in-java/)
