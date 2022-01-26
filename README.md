@@ -534,3 +534,5 @@ Let's learn basic java programs.
 [Inverted floyd triangle of numbers in java](https://www.flowerbrackets.com/inverted-floyd-triangle-in-java/)
 
 [Reverse factorial program in java](https://www.flowerbrackets.com/reverse-factorial-program-in-java/)
+
+[Factorial from 1 to 10 in java](https://www.flowerbrackets.com/factorial-from-1-to-10-in-java/)
