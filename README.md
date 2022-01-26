@@ -530,3 +530,5 @@ Let's learn basic java programs.
 [TreeSet contains(Object o) method in java](https://www.flowerbrackets.com/treeset-contains-object-o-method-in-java/)
 
 [TreeSet subSet() method in java](https://www.flowerbrackets.com/treeset-subset-method-in-java/)
+
+[Inverted floyd triangle of numbers in java](https://www.flowerbrackets.com/inverted-floyd-triangle-in-java/)
