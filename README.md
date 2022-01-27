@@ -562,3 +562,5 @@ Let's learn basic java programs.
 [Pascal’s triangle in java using recursion](https://www.flowerbrackets.com/pascals-triangle-in-java-using-recursion/)
 
 [Pascal triangle in java using array](https://www.flowerbrackets.com/pascal-triangle-in-java-using-array/)
+
+[Pascal triangle program in java without using arrays](https://www.flowerbrackets.com/pascal-triangle-program-in-java-without-using-arrays/)
