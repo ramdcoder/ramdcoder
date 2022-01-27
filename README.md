@@ -546,3 +546,5 @@ Let's learn basic java programs.
 [Year isLeap() method in java with example](https://www.flowerbrackets.com/year-isleap-method-in-java-with-example/)
 
 [Check leap year or not using conditional operator in java](https://www.flowerbrackets.com/leap-year-using-conditional-operator-in-java/)
+
+[Convert String to HexaDecimal in java](https://www.flowerbrackets.com/string-to-hexadecimal-in-java/)
