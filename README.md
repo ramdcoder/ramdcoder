@@ -556,3 +556,5 @@ Let's learn basic java programs.
 [Floyd’s triangle number pattern using while loop in java](https://www.flowerbrackets.com/floyds-triangle-number-pattern-using-while-loop-in-java/)
 
 [Floyd’s triangle star pattern in java](https://www.flowerbrackets.com/floyds-triangle-star-pattern-in-java/)
+
+[Java program to print prime numbers in a given range](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-in-a-given-range/)
