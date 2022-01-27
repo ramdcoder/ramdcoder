@@ -550,3 +550,5 @@ Let's learn basic java programs.
 [Convert String to HexaDecimal in java](https://www.flowerbrackets.com/string-to-hexadecimal-in-java/)
 
 [Convert binary to decimal in java using recursion](https://www.flowerbrackets.com/convert-binary-to-decimal-in-java-using-recursion/)
+
+[Print pattern in java 1 01 101 0101 10101](https://www.flowerbrackets.com/print-pattern-in-java/)
