@@ -540,3 +540,5 @@ Let's learn basic java programs.
 [4 Digit Armstrong number in java](https://www.flowerbrackets.com/4-digit-armstrong-number-in-java/)
 
 [Java program to find trace of a matrix](https://www.flowerbrackets.com/java-program-to-find-trace-of-a-matrix/)
+
+[Linear search in java using recursion](https://www.flowerbrackets.com/linear-search-in-java-using-recursion/)
