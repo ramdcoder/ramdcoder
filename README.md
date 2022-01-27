@@ -566,3 +566,5 @@ Let's learn basic java programs.
 [Pascal triangle program in java without using arrays](https://www.flowerbrackets.com/pascal-triangle-program-in-java-without-using-arrays/)
 
 [Java program to check palindrome number using recursion](https://www.flowerbrackets.com/java-program-to-check-palindrome-number-using-recursion/)
+
+[String palindrome in java without using reverse method](https://www.flowerbrackets.com/string-palindrome-in-java-without-using-reverse-method/)
