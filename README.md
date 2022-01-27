@@ -554,3 +554,5 @@ Let's learn basic java programs.
 [Print pattern in java 1 01 101 0101 10101](https://www.flowerbrackets.com/print-pattern-in-java/)
 
 [Floyd’s triangle number pattern using while loop in java](https://www.flowerbrackets.com/floyds-triangle-number-pattern-using-while-loop-in-java/)
+
+[Floyd’s triangle star pattern in java](https://www.flowerbrackets.com/floyds-triangle-star-pattern-in-java/)
