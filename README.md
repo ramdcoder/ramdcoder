@@ -542,3 +542,5 @@ Let's learn basic java programs.
 [Java program to find trace of a matrix](https://www.flowerbrackets.com/java-program-to-find-trace-of-a-matrix/)
 
 [Linear search in java using recursion](https://www.flowerbrackets.com/linear-search-in-java-using-recursion/)
+
+[Year isLeap() method in java with example](https://www.flowerbrackets.com/year-isleap-method-in-java-with-example/)
