@@ -548,3 +548,5 @@ Let's learn basic java programs.
 [Check leap year or not using conditional operator in java](https://www.flowerbrackets.com/leap-year-using-conditional-operator-in-java/)
 
 [Convert String to HexaDecimal in java](https://www.flowerbrackets.com/string-to-hexadecimal-in-java/)
+
+[Convert binary to decimal in java using recursion](https://www.flowerbrackets.com/convert-binary-to-decimal-in-java-using-recursion/)
