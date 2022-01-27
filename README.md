@@ -544,3 +544,5 @@ Let's learn basic java programs.
 [Linear search in java using recursion](https://www.flowerbrackets.com/linear-search-in-java-using-recursion/)
 
 [Year isLeap() method in java with example](https://www.flowerbrackets.com/year-isleap-method-in-java-with-example/)
+
+[Check leap year or not using conditional operator in java](https://www.flowerbrackets.com/leap-year-using-conditional-operator-in-java/)
