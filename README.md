@@ -560,3 +560,5 @@ Let's learn basic java programs.
 [Java program to print prime numbers in a given range](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-in-a-given-range/)
 
 [Pascal’s triangle in java using recursion](https://www.flowerbrackets.com/pascals-triangle-in-java-using-recursion/)
+
+[Pascal triangle in java using array](https://www.flowerbrackets.com/pascal-triangle-in-java-using-array/)
