@@ -612,3 +612,5 @@ Let's learn basic java programs.
 [Reverse an array without using another array in java](https://www.flowerbrackets.com/reverse-an-array-without-using-another-array-in-java/)
 
 [Reverse an array in java using for loop](https://www.flowerbrackets.com/reverse-an-array-in-java-using-for-loop/)
+
+[Java code to rename all files in a folder](https://www.flowerbrackets.com/java-code-to-rename-all-files-in-a-folder/)
