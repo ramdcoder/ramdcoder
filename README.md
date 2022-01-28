@@ -580,3 +580,5 @@ Let's learn basic java programs.
 [Get current date and time in java 8](https://www.flowerbrackets.com/get-current-date-and-time-in-java-8/)
 
 [String charAt() method in java](https://www.flowerbrackets.com/string-charat-method-in-java/)
+
+[Convert char to string java](https://www.flowerbrackets.com/convert-char-to-string-java/)
