@@ -592,3 +592,5 @@ Let's learn basic java programs.
 [Multiplication table in java using array](https://www.flowerbrackets.com/multiplication-table-in-java-using-array/)
 
 [Java program to print prime numbers from 2 to N](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-from-2-to-n/)
+
+[Prime number program in java using scanner](https://www.flowerbrackets.com/prime-number-program-in-java-using-scanner/)
