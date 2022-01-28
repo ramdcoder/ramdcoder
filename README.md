@@ -598,3 +598,5 @@ Let's learn basic java programs.
 [Java program to print prime numbers upto n](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-upto-n/)
 
 [Add two matrices in java using bufferedreader](https://www.flowerbrackets.com/add-two-matrices-in-java-using-bufferedreader/)
+
+[Difference between for and for each loop in java](https://www.flowerbrackets.com/difference-between-for-and-for-each-loop-in-java/)
