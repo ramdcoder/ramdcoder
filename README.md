@@ -594,3 +594,5 @@ Let's learn basic java programs.
 [Java program to print prime numbers from 2 to N](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-from-2-to-n/)
 
 [Prime number program in java using scanner](https://www.flowerbrackets.com/prime-number-program-in-java-using-scanner/)
+
+[Java program to print prime numbers upto n](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-upto-n/)
