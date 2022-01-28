@@ -600,3 +600,5 @@ Let's learn basic java programs.
 [Add two matrices in java using bufferedreader](https://www.flowerbrackets.com/add-two-matrices-in-java-using-bufferedreader/)
 
 [Difference between for and for each loop in java](https://www.flowerbrackets.com/difference-between-for-and-for-each-loop-in-java/)
+
+[Java program to calculate average of 3 numbers](https://www.flowerbrackets.com/java-program-to-calculate-average-of-3-numbers/)
