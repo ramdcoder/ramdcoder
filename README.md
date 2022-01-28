@@ -578,3 +578,5 @@ Let's learn basic java programs.
 [Transpose of a matrix in java using BufferedReader](https://www.flowerbrackets.com/transpose-of-a-matrix-in-java-using-bufferedreader/)
 
 [Get current date and time in java 8](https://www.flowerbrackets.com/get-current-date-and-time-in-java-8/)
+
+[String charAt() method in java](https://www.flowerbrackets.com/string-charat-method-in-java/)
