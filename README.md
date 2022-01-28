@@ -586,3 +586,5 @@ Let's learn basic java programs.
 [Reverse a string in java without using reverse function](https://www.flowerbrackets.com/reverse-a-string-in-java-without-using-reverse-function/)
 
 [Reverse a string word by word in java](https://www.flowerbrackets.com/reverse-a-string-in-java-word-by-word/)
+
+[Java program to calculate compound interest](https://www.flowerbrackets.com/java-program-to-calculate-compound-interest/)
