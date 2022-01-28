@@ -606,3 +606,5 @@ Let's learn basic java programs.
 [How to sort an array without using sort method in java](https://www.flowerbrackets.com/how-to-sort-an-array-in-java-without-using-sort-method/)
 
 [Why is string immutable in java](https://www.flowerbrackets.com/why-string-is-immutable-in-java/)
+
+[Sort characters alphabetically in a string in java](https://www.flowerbrackets.com/java-sort-string-characters-alphabetically/)
