@@ -590,3 +590,5 @@ Let's learn basic java programs.
 [Java program to calculate compound interest](https://www.flowerbrackets.com/java-program-to-calculate-compound-interest/)
 
 [Multiplication table in java using array](https://www.flowerbrackets.com/multiplication-table-in-java-using-array/)
+
+[Java program to print prime numbers from 2 to N](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-from-2-to-n/)
