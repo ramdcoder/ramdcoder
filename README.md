@@ -596,3 +596,5 @@ Let's learn basic java programs.
 [Prime number program in java using scanner](https://www.flowerbrackets.com/prime-number-program-in-java-using-scanner/)
 
 [Java program to print prime numbers upto n](https://www.flowerbrackets.com/java-program-to-print-prime-numbers-upto-n/)
+
+[Add two matrices in java using bufferedreader](https://www.flowerbrackets.com/add-two-matrices-in-java-using-bufferedreader/)
