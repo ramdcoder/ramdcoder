@@ -620,3 +620,5 @@ Let's learn basic java programs.
 [Program to find area of rectangle using inheritance in java](https://www.flowerbrackets.com/program-to-find-area-of-rectangle-using-inheritance-in-java/)
 
 [Java program to find area of circle and rectangle using interface](https://www.flowerbrackets.com/java-program-to-find-area-of-circle-and-rectangle-using-interface/)
+
+[Java program to calculate area of circle rectangle and triangle using switch](https://www.flowerbrackets.com/java-program-to-calculate-area-of-circle-rectangle-and-triangle-using-switch-statement/)
