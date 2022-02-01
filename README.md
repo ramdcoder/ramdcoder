@@ -630,3 +630,5 @@ Let's learn basic java programs.
 [Create Dynamic 2D array in java](https://www.flowerbrackets.com/create-dynamic-2d-array-in-java/)
 
 [How to sort ArrayList in java](https://www.flowerbrackets.com/how-to-sort-an-arraylist-in-java/)
+
+[How to sort TreeSet in descending order in java](https://www.flowerbrackets.com/how-to-sort-treeset-in-descending-order-in-java/)
