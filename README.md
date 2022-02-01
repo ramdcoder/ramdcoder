@@ -626,3 +626,5 @@ Let's learn basic java programs.
 [Swap two variables in java in single line](https://www.flowerbrackets.com/swap-two-variables-in-java-in-single-line/)
 
 [Swap three variables in java without temporary variable](https://www.flowerbrackets.com/swap-three-variables-in-java-without-using-temporary-variable/)
+
+[Create Dynamic 2D array in java](https://www.flowerbrackets.com/create-dynamic-2d-array-in-java/)
