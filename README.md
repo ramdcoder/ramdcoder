@@ -632,3 +632,5 @@ Let's learn basic java programs.
 [How to sort ArrayList in java](https://www.flowerbrackets.com/how-to-sort-an-arraylist-in-java/)
 
 [How to sort TreeSet in descending order in java](https://www.flowerbrackets.com/how-to-sort-treeset-in-descending-order-in-java/)
+
+[TreeMap sort by values in java](https://www.flowerbrackets.com/java-treemap-sort-by-value/)
