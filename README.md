@@ -622,3 +622,5 @@ Let's learn basic java programs.
 [Java program to find area of circle and rectangle using interface](https://www.flowerbrackets.com/java-program-to-find-area-of-circle-and-rectangle-using-interface/)
 
 [Java program to calculate area of circle rectangle and triangle using switch](https://www.flowerbrackets.com/java-program-to-calculate-area-of-circle-rectangle-and-triangle-using-switch-statement/)
+
+[Swap two variables in java in single line](https://www.flowerbrackets.com/swap-two-variables-in-java-in-single-line/)
