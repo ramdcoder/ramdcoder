@@ -634,3 +634,5 @@ Let's learn basic java programs.
 [How to sort TreeSet in descending order in java](https://www.flowerbrackets.com/how-to-sort-treeset-in-descending-order-in-java/)
 
 [TreeMap sort by values in java](https://www.flowerbrackets.com/java-treemap-sort-by-value/)
+
+[TreeMap comparator() method in java with examples](https://www.flowerbrackets.com/java-treemap-comparator-method-example/)
