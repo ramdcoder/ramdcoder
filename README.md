@@ -624,3 +624,5 @@ Let's learn basic java programs.
 [Java program to calculate area of circle rectangle and triangle using switch](https://www.flowerbrackets.com/java-program-to-calculate-area-of-circle-rectangle-and-triangle-using-switch-statement/)
 
 [Swap two variables in java in single line](https://www.flowerbrackets.com/swap-two-variables-in-java-in-single-line/)
+
+[Swap three variables in java without temporary variable](https://www.flowerbrackets.com/swap-three-variables-in-java-without-using-temporary-variable/)
