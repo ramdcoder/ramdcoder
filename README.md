@@ -616,3 +616,5 @@ Let's learn basic java programs.
 [Java code to rename all files in a folder](https://www.flowerbrackets.com/java-code-to-rename-all-files-in-a-folder/)
 
 [Delete a directory recursively in java 8](https://www.flowerbrackets.com/delete-a-directory-recursively-in-java-8/)
+
+[Program to find area of rectangle using inheritance in java](https://www.flowerbrackets.com/program-to-find-area-of-rectangle-using-inheritance-in-java/)
