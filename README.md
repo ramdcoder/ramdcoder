@@ -642,3 +642,5 @@ Let's learn basic java programs.
 [GCD of two numbers in java](https://www.flowerbrackets.com/gcd-of-two-numbers-in-java/)
 
 [Find GCD of three numbers in java](https://www.flowerbrackets.com/find-gcd-of-three-numbers-in-java/)
+
+[Java program to print armstrong numbers between given range](https://www.flowerbrackets.com/java-program-to-print-all-armstrong-numbers-between-given-range/)
