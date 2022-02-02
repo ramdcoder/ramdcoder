@@ -652,3 +652,5 @@ Let's learn basic java programs.
 [Count number of even and odd elements in an array in java](https://www.flowerbrackets.com/count-number-of-even-and-odd-elements-in-an-array-in-java/)
 
 [Java program to put even & odd elements of an array in 2 separate arrays](https://www.flowerbrackets.com/java-program-to-put-even-odd-elements-of-an-array-in-2-separate-arrays/)
+
+[How to remove last element from ArrayList in java](https://www.flowerbrackets.com/how-to-remove-last-element-from-arraylist-in-java/)
