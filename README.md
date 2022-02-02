@@ -648,3 +648,5 @@ Let's learn basic java programs.
 [Java program to calculate sum of even and odd numbers in an array](https://www.flowerbrackets.com/java-program-to-calculate-sum-of-even-and-odd-numbers-in-an-array/)
 
 [Java program to print odd and even numbers between 1 and 100](https://www.flowerbrackets.com/java-program-to-print-odd-and-even-numbers-between-1-and-100/)
+
+[Count number of even and odd elements in an array in java](https://www.flowerbrackets.com/count-number-of-even-and-odd-elements-in-an-array-in-java/)
