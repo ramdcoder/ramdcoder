@@ -650,3 +650,5 @@ Let's learn basic java programs.
 [Java program to print odd and even numbers between 1 and 100](https://www.flowerbrackets.com/java-program-to-print-odd-and-even-numbers-between-1-and-100/)
 
 [Count number of even and odd elements in an array in java](https://www.flowerbrackets.com/count-number-of-even-and-odd-elements-in-an-array-in-java/)
+
+[Java program to put even & odd elements of an array in 2 separate arrays](https://www.flowerbrackets.com/java-program-to-put-even-odd-elements-of-an-array-in-2-separate-arrays/)
