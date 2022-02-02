@@ -638,3 +638,5 @@ Let's learn basic java programs.
 [TreeMap comparator() method in java with examples](https://www.flowerbrackets.com/java-treemap-comparator-method-example/)
 
 [Java program to remove consonants from a string](https://www.flowerbrackets.com/java-program-to-remove-consonants-from-a-string/)
+
+[GCD of two numbers in java](https://www.flowerbrackets.com/gcd-of-two-numbers-in-java/)
