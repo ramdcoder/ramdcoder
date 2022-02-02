@@ -654,3 +654,5 @@ Let's learn basic java programs.
 [Java program to put even & odd elements of an array in 2 separate arrays](https://www.flowerbrackets.com/java-program-to-put-even-odd-elements-of-an-array-in-2-separate-arrays/)
 
 [How to remove last element from ArrayList in java](https://www.flowerbrackets.com/how-to-remove-last-element-from-arraylist-in-java/)
+
+[Java program to find maximum and minimum number without using array](https://www.flowerbrackets.com/java-program-to-find-maximum-and-minimum-number-without-using-array/)
