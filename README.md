@@ -640,3 +640,5 @@ Let's learn basic java programs.
 [Java program to remove consonants from a string](https://www.flowerbrackets.com/java-program-to-remove-consonants-from-a-string/)
 
 [GCD of two numbers in java](https://www.flowerbrackets.com/gcd-of-two-numbers-in-java/)
+
+[Find GCD of three numbers in java](https://www.flowerbrackets.com/find-gcd-of-three-numbers-in-java/)
