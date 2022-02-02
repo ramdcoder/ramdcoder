@@ -644,3 +644,5 @@ Let's learn basic java programs.
 [Find GCD of three numbers in java](https://www.flowerbrackets.com/find-gcd-of-three-numbers-in-java/)
 
 [Java program to print armstrong numbers between given range](https://www.flowerbrackets.com/java-program-to-print-all-armstrong-numbers-between-given-range/)
+
+[Java program to calculate sum of even and odd numbers in an array](https://www.flowerbrackets.com/java-program-to-calculate-sum-of-even-and-odd-numbers-in-an-array/)
