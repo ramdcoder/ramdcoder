@@ -672,3 +672,5 @@ Let's learn basic java programs.
 [How to check if a string is in alphabetical order in java](https://www.flowerbrackets.com/how-to-check-if-a-string-is-in-alphabetical-order-in-java/)
 
 [Arrange words of a sentence in alphabetical order in java](https://www.flowerbrackets.com/arrange-words-of-a-sentence-in-alphabetical-order-in-java/)
+
+[Java program to find largest of four numbers using nested if](https://www.flowerbrackets.com/java-program-to-find-largest-of-four-numbers-using-nested-if/)
