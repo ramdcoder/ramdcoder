@@ -692,3 +692,5 @@ Let's learn basic java programs.
 [Difference between HashMap and HashSet in java](https://www.flowerbrackets.com/difference-between-hashset-and-hashmap/)
 
 [Recursion in java](https://www.flowerbrackets.com/recursion-in-java/)
+
+[Getter and Setter in java](https://www.flowerbrackets.com/getter-and-setter-in-java/)
