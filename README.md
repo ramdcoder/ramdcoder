@@ -688,3 +688,5 @@ Let's learn basic java programs.
 [Difference between abstract class and interface in java](https://www.flowerbrackets.com/difference-between-abstract-class-and-interface-in-java/)
 
 [Difference between class and interface in java](https://www.flowerbrackets.com/difference-between-class-and-interface-in-java/)
+
+[Difference between HashMap and HashSet in java](https://www.flowerbrackets.com/difference-between-hashset-and-hashmap/)
