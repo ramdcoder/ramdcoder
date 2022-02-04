@@ -708,3 +708,5 @@ Let's learn basic java programs.
 [Unary operators in java](https://www.flowerbrackets.com/unary-operators-in-java-with-example/)
 
 [Shift operator in java](https://www.flowerbrackets.com/shift-operator-in-java/)
+
+[Multiple inheritance in java](https://www.flowerbrackets.com/multiple-inheritance-in-java/)
