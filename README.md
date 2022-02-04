@@ -684,3 +684,5 @@ Let's learn basic java programs.
 [Random class in java](https://www.flowerbrackets.com/random-class-java/)
 
 [Write a java program to add two binary numbers](https://www.flowerbrackets.com/write-a-java-program-to-add-two-binary-numbers/)
+
+[Difference between abstract class and interface in java](https://www.flowerbrackets.com/difference-between-abstract-class-and-interface-in-java/)
