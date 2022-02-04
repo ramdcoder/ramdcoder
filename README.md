@@ -670,3 +670,5 @@ Let's learn basic java programs.
 [String palindrome in java using array](https://www.flowerbrackets.com/string-palindrome-in-java-using-array/)
 
 [How to check if a string is in alphabetical order in java](https://www.flowerbrackets.com/how-to-check-if-a-string-is-in-alphabetical-order-in-java/)
+
+[Arrange words of a sentence in alphabetical order in java](https://www.flowerbrackets.com/arrange-words-of-a-sentence-in-alphabetical-order-in-java/)
