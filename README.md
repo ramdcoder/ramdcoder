@@ -682,3 +682,5 @@ Let's learn basic java programs.
 [Wrapper classes in java](https://www.flowerbrackets.com/wrapper-class-in-java/)
 
 [Random class in java](https://www.flowerbrackets.com/random-class-java/)
+
+[Write a java program to add two binary numbers](https://www.flowerbrackets.com/write-a-java-program-to-add-two-binary-numbers/)
