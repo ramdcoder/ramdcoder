@@ -656,3 +656,5 @@ Let's learn basic java programs.
 [How to remove last element from ArrayList in java](https://www.flowerbrackets.com/how-to-remove-last-element-from-arraylist-in-java/)
 
 [Java program to find maximum and minimum number without using array](https://www.flowerbrackets.com/java-program-to-find-maximum-and-minimum-number-without-using-array/)
+
+[How to remove duplicates from array in java without using collections](https://www.flowerbrackets.com/how-to-remove-duplicates-from-array-in-java-without-using-collections/)
