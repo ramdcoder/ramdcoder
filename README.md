@@ -696,3 +696,5 @@ Let's learn basic java programs.
 [Getter and Setter in java](https://www.flowerbrackets.com/getter-and-setter-in-java/)
 
 [How to remove duplicates from ArrayList in java](https://www.flowerbrackets.com/how-to-remove-duplicates-from-arraylist-in-java/)
+
+[Assignment operators in java](https://www.flowerbrackets.com/assignment-operators-in-java/)
