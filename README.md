@@ -666,3 +666,5 @@ Let's learn basic java programs.
 [Java program to add two numbers using bufferedreader](https://www.flowerbrackets.com/java-program-to-add-two-numbers-using-bufferedreader/)
 
 [String palindrome in java using stringbuffer](https://www.flowerbrackets.com/string-palindrome-in-java-using-stringbuffer/)
+
+[String palindrome in java using array](https://www.flowerbrackets.com/string-palindrome-in-java-using-array/)
