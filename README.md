@@ -660,3 +660,5 @@ Let's learn basic java programs.
 [How to remove duplicates from array in java without using collections](https://www.flowerbrackets.com/how-to-remove-duplicates-from-array-in-java-without-using-collections/)
 
 [Difference between while and do while loop in java](https://www.flowerbrackets.com/difference-between-while-and-do-while-loop-in-java/)
+
+[Java do while loop with user input](https://www.flowerbrackets.com/java-do-while-loop-with-user-input/)
