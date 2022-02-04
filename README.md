@@ -676,3 +676,5 @@ Let's learn basic java programs.
 [Java program to find largest of four numbers using nested if](https://www.flowerbrackets.com/java-program-to-find-largest-of-four-numbers-using-nested-if/)
 
 [Java program to find smallest of three numbers using ternary operator](https://www.flowerbrackets.com/java-program-to-find-smallest-of-three-numbers-using-ternary-operator/)
+
+[Immutable class in java](https://www.flowerbrackets.com/immutable-class-in-java/)
