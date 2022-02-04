@@ -686,3 +686,5 @@ Let's learn basic java programs.
 [Write a java program to add two binary numbers](https://www.flowerbrackets.com/write-a-java-program-to-add-two-binary-numbers/)
 
 [Difference between abstract class and interface in java](https://www.flowerbrackets.com/difference-between-abstract-class-and-interface-in-java/)
+
+[Difference between class and interface in java](https://www.flowerbrackets.com/difference-between-class-and-interface-in-java/)
