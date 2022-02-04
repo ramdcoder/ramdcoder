@@ -674,3 +674,5 @@ Let's learn basic java programs.
 [Arrange words of a sentence in alphabetical order in java](https://www.flowerbrackets.com/arrange-words-of-a-sentence-in-alphabetical-order-in-java/)
 
 [Java program to find largest of four numbers using nested if](https://www.flowerbrackets.com/java-program-to-find-largest-of-four-numbers-using-nested-if/)
+
+[Java program to find smallest of three numbers using ternary operator](https://www.flowerbrackets.com/java-program-to-find-smallest-of-three-numbers-using-ternary-operator/)
