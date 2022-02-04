@@ -678,3 +678,5 @@ Let's learn basic java programs.
 [Java program to find smallest of three numbers using ternary operator](https://www.flowerbrackets.com/java-program-to-find-smallest-of-three-numbers-using-ternary-operator/)
 
 [Immutable class in java](https://www.flowerbrackets.com/immutable-class-in-java/)
+
+[Wrapper classes in java](https://www.flowerbrackets.com/wrapper-class-in-java/)
