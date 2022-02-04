@@ -710,3 +710,5 @@ Let's learn basic java programs.
 [Shift operator in java](https://www.flowerbrackets.com/shift-operator-in-java/)
 
 [Multiple inheritance in java](https://www.flowerbrackets.com/multiple-inheritance-in-java/)
+
+[Comparable interface in java](https://www.flowerbrackets.com/comparable-interface-in-java/)
