@@ -714,3 +714,5 @@ Let's learn basic java programs.
 [Comparable interface in java](https://www.flowerbrackets.com/comparable-interface-in-java/)
 
 [Functional interface in java](https://www.flowerbrackets.com/functional-interface-in-java/)
+
+[instanceof java](https://www.flowerbrackets.com/instanceof-java/)
