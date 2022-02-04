@@ -706,3 +706,5 @@ Let's learn basic java programs.
 [Logical operators in java](https://www.flowerbrackets.com/logical-operators-in-java/)
 
 [Unary operators in java](https://www.flowerbrackets.com/unary-operators-in-java-with-example/)
+
+[Shift operator in java](https://www.flowerbrackets.com/shift-operator-in-java/)
