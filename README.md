@@ -700,3 +700,5 @@ Let's learn basic java programs.
 [Assignment operators in java](https://www.flowerbrackets.com/assignment-operators-in-java/)
 
 [Relational operators in java](https://www.flowerbrackets.com/relational-operators-in-java/)
+
+[Bitwise operators in java](https://www.flowerbrackets.com/bitwise-operators-in-java/)
