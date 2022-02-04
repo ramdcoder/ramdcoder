@@ -662,3 +662,5 @@ Let's learn basic java programs.
 [Difference between while and do while loop in java](https://www.flowerbrackets.com/difference-between-while-and-do-while-loop-in-java/)
 
 [Java do while loop with user input](https://www.flowerbrackets.com/java-do-while-loop-with-user-input/)
+
+[Java program to add two numbers using bufferedreader](https://www.flowerbrackets.com/java-program-to-add-two-numbers-using-bufferedreader/)
